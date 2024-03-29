@@ -1,0 +1,3 @@
+[submodule "tests/clar"]
+	path = tests/clar
+	url = git@github.com:GravisZro/clar.git
