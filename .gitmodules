@@ -1,3 +1,6 @@
 [submodule "tests/clar"]
 	path = tests/clar
 	url = git@github.com:GravisZro/clar.git
+[submodule "src/util/hash/sha1dc"]
+	path = src/util/hash/sha1dc
+	url = git@github.com:GravisZro/sha1collisiondetection.git
